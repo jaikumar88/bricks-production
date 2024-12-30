@@ -61,7 +61,7 @@
         <mxCell id="vr0eiFD3yKQDkcYfbocp-18" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
           <mxGeometry x="180" y="490" width="18" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vr0eiFD3yKQDkcYfbocp-19" value="Worker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="vr0eiFD3yKQDkcYfbocp-19" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="57" y="480" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vr0eiFD3yKQDkcYfbocp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vr0eiFD3yKQDkcYfbocp-19" target="vr0eiFD3yKQDkcYfbocp-18">
@@ -131,6 +131,9 @@
         </mxCell>
         <mxCell id="vr0eiFD3yKQDkcYfbocp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vr0eiFD3yKQDkcYfbocp-28" target="vr0eiFD3yKQDkcYfbocp-29">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vr0eiFD3yKQDkcYfbocp-37" value="Admin:&amp;nbsp;&lt;div&gt;1: Add/Update, Delete customer&lt;/div&gt;&lt;div&gt;2: Enter payment, income, expenses&lt;/div&gt;&lt;div&gt;3: Update Salary for Employee&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Worker: List Salary or Advance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Customer: Check Khata details&lt;/div&gt;&lt;div&gt;check due amount&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="45" y="650" width="485" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
